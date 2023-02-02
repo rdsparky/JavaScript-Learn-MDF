@@ -1,0 +1,2 @@
+simplilearn : https://www.simplilearn.com/tutorials/javascript-tutorial
+devdocs : https://devdocs.io/offline
